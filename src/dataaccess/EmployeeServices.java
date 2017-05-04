@@ -11,7 +11,7 @@ public class EmployeeServices {
     
     //fields
     private LinkedList<Employee> list;
-    private final int Last_ID;
+    public final int LAST_ID;
     //private IDataAccess = new DataAccess
     
     public EmployeeServices(){
